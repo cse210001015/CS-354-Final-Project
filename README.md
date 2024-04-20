@@ -9,5 +9,5 @@ The final project submission for the Lab of CS 354
 # Team Members (Group No 3):
 
 ## G Aakash (https://github.com/cse210001015)
-## Mullapudi Surya Kartikeya ()
+## Mullapudi Surya Kartikeya (https://github.com/surya1176)
 ## Gaurav Mahendraker ()
