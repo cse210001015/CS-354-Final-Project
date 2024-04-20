@@ -10,4 +10,4 @@ The final project submission for the Lab of CS 354
 
 ## G Aakash (https://github.com/cse210001015)
 ## Mullapudi Surya Kartikeya (https://github.com/surya1176)
-## Gaurav Mahendraker ()
+## Gaurav Mahendraker (https://github.com/gauravmahendraker)
